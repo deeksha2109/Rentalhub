@@ -1,0 +1,4 @@
+node_modules/
+.env
+*.log
+list_db_fleet.js
